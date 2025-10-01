@@ -1,0 +1,7 @@
+torch
+torchvision
+matplotlib
+jupyter
+numpy
+pandas
+python-dotenv
